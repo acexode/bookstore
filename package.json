@@ -1,0 +1,25 @@
+{
+  "name": "bookstore",
+  "version": "1.0.0",
+  "description": "simple bookstore app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies":{
+    "express": "*",
+    "mongoose": "*",
+    "body-parser": "*"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acecode009/bookstore.git"
+  },
+  "author": "Acecode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acecode009/bookstore/issues"
+  },
+  "homepage": "https://github.com/acecode009/bookstore#readme"
+}
